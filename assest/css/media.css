@@ -1,0 +1,485 @@
+@media (max-width:2560px) and (min-width:1441px) {
+  .nav-bar .btn{
+    display: none;
+  }
+  .amazing-features .arrow1 img {
+    top: 367px;
+    left: 1200px;
+  }
+  .amazing-features .arrow1 p {
+    top: 355px;
+    left: 1315px;
+  }
+  .amazing-features .arrow2 img {
+    top: 450px;
+    left: 1365px;
+  }
+  .amazing-features .arrow2 p {
+    top: 435px;
+    left: 1480px;
+  }
+  .amazing-features .arrow3 img {
+    top: 530px;
+    left: 1500px;
+  }
+  .amazing-features .arrow3 p {
+    top: 515px;
+    left: 1615px;
+  }
+  .amazing-features .arrow4 img {
+    top: 760px;
+    left: 1555px;
+  }
+  .amazing-features .arrow4 p {
+    top: 778px;
+    left: 1675px;
+  }
+  .amazing-features .arrow5 img {
+    top: 740px;
+    left: 1068px;
+  }
+  .amazing-features .arrow5 p {
+    top: 760px;
+    right: 1510px;
+  }
+  .amazing-features .arrow6 img {
+    top: 435px;
+    left: 900px;
+  }
+  .amazing-features .arrow6 p {
+    top: 422px;
+    right: 1675px;
+  }
+  .writter-design ::after {
+    content: "";
+    position: absolute;
+    top: 85px;
+    left: 1100px;
+    width: 1px;
+    height: 50%;
+    background-color: var(--light-color);}
+}
+ @media (max-width:1440px) and (min-width:1201px) {
+  .nav-bar .btn{
+    display: none;
+  }
+  .amazing-features .arrow1 img {
+    top: 370px;
+    left: 640px;
+  }
+  .amazing-features .arrow1 p {
+    top: 360px;
+    left: 755px;
+  }
+  .amazing-features .arrow2 img {
+    top: 448px;
+    left: 800px;
+  }
+  .amazing-features .arrow2 p {
+    top: 435px;
+    left: 915px;
+  }
+  .amazing-features .arrow3 img {
+    top: 530px;
+    left: 940px;
+  }
+  .amazing-features .arrow3 p {
+    top: 520px;
+    left: 1050px;
+  }
+  .amazing-features .arrow4 img {
+    top: 750px;
+    left: 1015px;
+  }
+  .amazing-features .arrow4 p {
+    top: 770px;
+    left: 1130px;
+  }
+  .amazing-features .arrow5 img {
+    top: 735px;
+    left: 500px;
+  }
+  .amazing-features .arrow5 p {
+    top: 755px;
+    right: 955px;
+  }
+  .amazing-features .arrow6 img {
+    top: 440px;
+    left: 335px;
+  }
+  .amazing-features .arrow6 p {
+    top: 426px;
+    right: 1120px;
+  }
+ }
+ @media (max-width:1200px) and (min-width:1025px) {
+ }
+ @media (max-width:1024px) and (min-width:997px) {
+  .nav-bar .btn{
+    display: none;
+  }
+  header {
+    width: 122%;
+  }
+  .choose-simple {
+    width: 122%;
+  }
+  .choose-simple .row .card-body button {
+    width: 100%;
+  }
+  .amazing-features {
+    width: 122%;
+  }
+  .amazing-features .arrow1 img {
+    top: 360px;
+    left: 570px;
+  }
+  .amazing-features .arrow1 p {
+    top: 350px;
+    left: 685px;
+  }
+  .amazing-features .arrow2 img {
+    top: 430px;
+    left: 710px;
+  }
+  .amazing-features .arrow2 p {
+    top: 420px;
+    left: 825px
+  }
+  .amazing-features .arrow3 img {
+    top: 510px;
+    left: 845px;
+  }
+  .amazing-features .arrow3 p {
+    top: 500px;
+    left: 955px;
+  }
+  .amazing-features .arrow4 img {
+    top: 690px;
+    left: 850px;
+  }
+  .amazing-features .arrow4 p {
+    top: 710px;
+    left: 965px
+  }
+  .amazing-features .arrow5 img {
+    top: 670px;
+    left: 425px;
+  }
+  .amazing-features .arrow5 p {
+    top: 690px;
+    right: 835px;
+  }
+  .amazing-features .arrow6 img {
+    top: 415px;
+    left: 285px;
+  }
+  .amazing-features .arrow6 p {
+    top: 402px;
+    right: 975px
+  }
+  .writter-design {
+    width: 122%;
+  }
+  .writter-design ::after {
+    left: 610px;
+  }
+  .passionate {
+    width: 122%;
+  }
+  .logos {
+    width: 122%;
+  }
+  .showcase-work {
+    width: 122%;
+  }
+  .news-announcements {
+    width: 122%;
+  }
+  .news-announcements .card .card-body .card-tittle{
+    width: 265px;
+  }
+  .news-announcements .card .card-body .icon-para .icon p {
+    font-size: 13px;
+ }
+  .news-announcements .card .card-body .icon-para .icon{
+   margin-bottom: 10px;
+  }
+  .section {
+    width: 122%;
+  }
+  .heading-section h3::before {
+    left: 20%
+  }
+  .heading-section h3::after {
+    left: 80%;
+  }
+  .packages {
+    width: 122%;
+  }
+  .packages .card .btn button ,
+  .packages .card .btn2 button ,
+  .packages .card .btn3 button  {
+    width: 200px;
+  }
+  .icons {
+    width: 122%;
+  }
+  .get-in-touch {
+    width: 122%;
+  }
+  footer {
+    width: 122%;
+  }
+
+ }
+ @media (max-width:996px) and (min-width:769px) {
+   
+ }
+ @media (max-width:768px) and (min-width:577px) {
+  .navbar-nav{
+    display: none;
+  }
+  header {
+    width: 162%;
+  }
+  .choose-simple {
+    width: 162%;
+ }
+ .choose-simple .row .card-body .card-tittle{
+   width: 305px;
+  }
+  .choose-simple .row .card-body button {
+    width: 100%;
+  }
+  
+  .amazing-features {
+    width: 162%;
+  }
+  .amazing-features .arrow1 img {
+    top: 350px;
+    left: 580px;
+  }
+  .amazing-features .arrow1 p {
+    top: 340px;
+    left: 690px;
+  }
+  .amazing-features .arrow2 img {
+    top: 400px;
+    left: 680px;
+  }
+  .amazing-features .arrow2 p {
+    top: 390px;
+    left: 790px;
+  }
+  .amazing-features .arrow3 img {
+    top: 455px;
+    left: 755px;
+  }
+  .amazing-features .arrow3 p {
+    top: 445px;
+    left: 865px;
+  }
+  .amazing-features .arrow4 img {
+    top: 600px;
+    left: 782px;
+  }
+  .amazing-features .arrow4 p {
+    top: 620px;
+    left: 895px;
+  }
+  .amazing-features .arrow5 img {
+    top: 590px;
+    left: 460px;
+  }
+  .amazing-features .arrow5 p {
+    top: 610px;
+    right: 795px;
+  }
+  .amazing-features .arrow6 img {
+    top: 390px;
+    left: 335px;
+  }
+  .amazing-features .arrow6 p {
+    top: 377px;
+    right: 920px;
+  }
+  .writter-design {
+    width: 162%;
+  }
+  .writter-design ::after {
+    left: 610px;
+  }
+  .passionate {
+    width: 162%;
+  }
+  .passionate .contain::after {
+    top: 630px;
+  }
+  .logos {
+    width: 162%;
+    margin-top: 100px;
+  }
+  .showcase-work {
+    width: 162%;
+  }
+  .news-announcements {
+    width: 162%;
+  }
+  .section {
+    width: 162%;
+  }
+  .heading-section h3::before {
+    left: 10%
+  }
+  .heading-section h3::after {
+    left: 90%;
+  }
+  .packages {
+    width: 162%;
+  }
+  .packages .card .btn button ,
+  .packages .card .btn2 button ,
+  .packages .card .btn3 button  {
+    width: 200px;
+  }
+  .icons {
+    width: 162%;
+  }
+  .get-in-touch {
+    width: 162%;
+  }
+  footer {
+    width: 162%;
+  }
+ }
+ @media (max-width:576px) and (min-width:426px) {
+
+ }
+ @media (max-width:425px) and (min-width:376px) {
+  .navbar-nav{
+    display: none;
+  }
+ }
+ @media (max-width:375px) and (min-width:321px) {
+  .navbar-nav{
+    display: none;
+  }
+ }
+ @media (max-width:320px) {
+  .navbar-nav{
+    display: none;
+  }
+  header{
+    width: 390%;
+  }
+  .choose-simple {
+    width: 390%;
+ }
+ .choose-simple .row .card-body .card-tittle{
+   width: 305px;
+  }
+  .choose-simple .row .card-body button {
+    width: 390%;
+  }
+  .amazing-features {
+    width: 390%;
+  }
+  
+  .amazing-features .arrow1 img {
+    top: 375px;
+    left: 570px;
+  }
+  .amazing-features .arrow1 p {
+    top: 360px;
+    left: 685px;
+  }
+  .amazing-features .arrow2 img {
+    top: 470px;
+    left: 738px;
+  }
+  .amazing-features .arrow2 p {
+    top: 460px;
+    left: 850px;
+  }
+  .amazing-features .arrow3 img {
+    top: 560px;
+    left: 900px;
+  }
+  .amazing-features .arrow3 p {
+    top: 550px;
+    left: 1010px;
+  }
+  .amazing-features .arrow4 img {
+    top: 800px;
+    left: 930px;
+  }
+  .amazing-features .arrow4 p {
+    top: 820px;
+    left: 1045px;
+  }
+  .amazing-features .arrow5 img {
+    top: 780px;
+    left: 400px;
+  }
+  .amazing-features .arrow5 p {
+    top: 800px;
+    right: 860px;
+  }
+  .amazing-features .arrow6 img {
+    top: 435px;
+    left: 220px;
+  }
+  .amazing-features .arrow6 p {
+    top: 421px;
+    right: 1040px;
+  }
+  .writter-design {
+    width: 390%;
+  }
+  .writter-design ::after {
+    left: 610px;
+  }
+  .passionate {
+    width: 390%;
+  }
+  .passionate .contain::after {
+    top: 630px;
+  }
+  .logos {
+    width: 390%;
+    margin-top: 100px;
+  }
+  .showcase-work {
+    width: 390%;
+  }
+  .news-announcements {
+    width: 390%;
+  }
+  .section {
+    width: 390%;
+  }
+  .heading-section h3::before {
+    left: 26%;
+  }
+  .heading-section h3::after {
+    left: 74%
+  }
+  .packages {
+    width: 390%;
+  }
+  .packages .card .btn button ,
+  .packages .card .btn2 button ,
+  .packages .card .btn3 button  {
+    width: 200px;
+  }
+  .icons {
+    width: 390%;
+  }
+  .get-in-touch {
+    width: 390%;
+  }
+  footer {
+    width: 390%;
+  }
+}
